@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Add Button to List Demo
+==============================
 
-Show a window with `Hello, JavaFX` label.
+Run `Hello.java` in your IDE.
 
